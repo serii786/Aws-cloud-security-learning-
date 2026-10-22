@@ -1,0 +1,26 @@
+![Banner](./aws-banner.png)
+
+# ☁️ AWS - Cloud Security Learning
+
+Hi, I'm **Sehir Bano** - AWS Learner @ Zelos Defence
+
+### 📌 What is AWS?
+Amazon Web Services (AWS) is the world's biggest cloud platform.
+
+### 🔐 What is Cloud Security?
+Securing data and applications on AWS using AWS tools.
+
+**Shared Responsibility:**
+- **AWS:** Secures the Cloud
+- **We:** Secure IN the Cloud
+
+### 🧠 Core Services I am Learning
+- **EC2:** Security Groups, Key Pair
+- **S3:** Bucket Policy, Encryption
+- **IAM:** Users, Roles, Policies, MFA
+
+### 🎯 My Goal
+To become an AWS Cloud Practitioner and Cloud Security Specialist.
+
+### 🔗 Connect With Me
+- LinkedIn: [Sehir Bano](https://www.linkedin.com/in/sehir-bano-7aa236432)
