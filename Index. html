@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sehir - AWS Cloud Security Learning</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { font-family: Arial; background: #0d1117; color: white; text-align: center; margin: 0; }
+.banner { width: 100%; max-height: 350px; object-fit: cover; }
+.container { padding: 30px; }
+h1 { color: #f97316; }
+.card { background: #161b22; padding: 20px; margin: 15px auto; max-width: 600px; border-radius: 12px; border: 1px solid #30363d; }
+a { color: #58a6ff; text-decoration: none; }
+</style>
+</head>
+<body>
+
+<img src="aws_banner" class="banner">
+
+<div class="container">
+<h1>☁️ AWS - Cloud Security Learning</h1>
+<p>Hi, I'm <b>Sehir</b> - AWS Learner @ Zelos Defense</p>
+
+<div class="card">
+<h3>🚀 What I'm Learning</h3>
+<p>EC2 | S3 | IAM | VPC | Cloud Security | Notes and Labs</p>
+</div>
+
+<div class="card">
+<h3>📚 My Journey</h3>
+<p>This repo contains my daily notes, labs, and practicals of AWS Cloud Security. Learning in progress...</p>
+</div>
+
+<div class="card">
+<h3>🔗 Connect With Me</h3>
+<p><a href="https://github.com/seri786">GitHub - seri786</a></p>
+</div>
+
+</div>
+</body>
+</html>
